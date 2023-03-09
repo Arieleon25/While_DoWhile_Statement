@@ -92,7 +92,6 @@ namespace While_DoWhile_Statement
                         break;
                     case 23:
                         Console.WriteLine("You guessed 23. That is correct!");
-                        States = Convert.ToInt32(Console.ReadLine());
                         stateGuessed = true;
                         break;
                     default:
